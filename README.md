@@ -40,13 +40,13 @@ I welcome contributions from the community to improve my website! If you'd like 
 ## Snapshorts
 
 **Home Page**
-![home]([[https://github.com/ShashankShekhar31/Coffee-Shop/assets/146058023/e7b96414-f868-4c84-b3b0-20309ccd8cfd](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-1.jpg)](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-1.jpg))
+![home](https://github.com/user-attachments/assets/af43372f-5a20-416a-acf1-870036ad7e53)
 
 **About Page**
-![about]([https://github.com/ShashankShekhar31/Coffee-Shop/assets/146058023/9621d3d6-169c-430f-b5ca-ba3cadbd97ec](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-1.jpg))
+![about](https://github.com/user-attachments/assets/af7aa5f8-b60e-41bf-83a2-eae55cbbb1bf)
 
 **Experience Page**
-![experience]([https://github.com/ShashankShekhar31/Coffee-Shop/assets/146058023/b40e2322-d557-40e2-bf65-30a403f26f9f](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-3.jpg))
+![experience](https://github.com/user-attachments/assets/74387234-5de0-495a-9f69-10b330ba93d1)
 
 **Contact Page**
-![contact]([https://github.com/ShashankShekhar31/Coffee-Shop/assets/146058023/6348ad7d-00a8-442e-912c-213669d37a34](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-5.jpg))
+![contact](https://github.com/user-attachments/assets/c933ab1e-10ab-4974-9d83-10a2bd67409f)
