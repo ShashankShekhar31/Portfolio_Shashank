@@ -48,5 +48,8 @@ I welcome contributions from the community to improve my website! If you'd like 
 **Experience Page**
 ![experience](https://github.com/user-attachments/assets/74387234-5de0-495a-9f69-10b330ba93d1)
 
+**Project Page**
+![project](https://github.com/user-attachments/assets/0a3a4e1b-6691-4a71-8055-9eecb4cbde90)
+
 **Contact Page**
 ![contact](https://github.com/user-attachments/assets/c933ab1e-10ab-4974-9d83-10a2bd67409f)
