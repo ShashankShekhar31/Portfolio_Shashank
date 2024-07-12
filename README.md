@@ -4,6 +4,7 @@ Welcome to My **Portfolio** This repository contains the source code for my Port
 
 # Resume
 [ShashankShekharResume.pdf](https://github.com/user-attachments/files/16194537/ShashankShekharResume.pdf)
+https://drive.google.com/file/d/1uAsnuEVK1X0GJji0wRUVf_UforHGP3RF/view?usp=sharing
 
 
 ## Features
