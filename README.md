@@ -40,7 +40,7 @@ I welcome contributions from the community to improve my website! If you'd like 
 ## Snapshorts
 
 **Home Page**
-![home]([https://github.com/ShashankShekhar31/Coffee-Shop/assets/146058023/e7b96414-f868-4c84-b3b0-20309ccd8cfd](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-1.jpg))
+![home]([[https://github.com/ShashankShekhar31/Coffee-Shop/assets/146058023/e7b96414-f868-4c84-b3b0-20309ccd8cfd](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-1.jpg)](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-1.jpg))
 
 **About Page**
 ![about]([https://github.com/ShashankShekhar31/Coffee-Shop/assets/146058023/9621d3d6-169c-430f-b5ca-ba3cadbd97ec](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/snap-1.jpg))
