@@ -4,7 +4,7 @@ Welcome to My **Portfolio** This repository contains the source code for my Port
 
 # Resume
 
-[ShashankShekharResume.pdf](https://github.com/user-attachments/files/16194537/ShashankShekharResume.pdf)
+[ShashankShekharResume.pdf](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/assets/Shashank_Shekhar__Resume.pdf)
 
 ## Features
 
@@ -47,10 +47,10 @@ I welcome contributions from the community to improve my website! If you'd like 
 ![home](https://github.com/user-attachments/assets/af43372f-5a20-416a-acf1-870036ad7e53)
 
 **About Page**
-![about](https://github.com/user-attachments/assets/af7aa5f8-b60e-41bf-83a2-eae55cbbb1bf)
+![about](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/about.png)
 
 **Experience Page**
-![experience](https://github.com/user-attachments/assets/74387234-5de0-495a-9f69-10b330ba93d1)
+![experience](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/experience.png)
 
 **Project Page**
 ![project](https://github.com/user-attachments/assets/0a3a4e1b-6691-4a71-8055-9eecb4cbde90)
