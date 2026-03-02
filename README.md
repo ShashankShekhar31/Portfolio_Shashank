@@ -54,6 +54,5 @@ I welcome contributions from the community to improve my website! If you'd like 
 
 **Project Page**
 ![project](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/project.png)
-
 **Contact Page**
 ![contact](https://github.com/user-attachments/assets/c933ab1e-10ab-4974-9d83-10a2bd67409f)
