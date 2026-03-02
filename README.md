@@ -53,7 +53,7 @@ I welcome contributions from the community to improve my website! If you'd like 
 ![experience](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/experience.png)
 
 **Project Page**
-![project](https://github.com/user-attachments/assets/0a3a4e1b-6691-4a71-8055-9eecb4cbde90)
+![project](https://github.com/ShashankShekhar31/Portfolio_Shashank/blob/main/snaps/project.png)
 
 **Contact Page**
 ![contact](https://github.com/user-attachments/assets/c933ab1e-10ab-4974-9d83-10a2bd67409f)
